@@ -1,0 +1,10 @@
+{
+  "lib/gson-2.11.0.jar": "57928d6e5a6edeb2abd3770a8f95ba44dce45f3b23b7a9dc2b309c581552a78b",
+  "lib/Java-WebSocket-1.5.7.jar": "28d8392a882660e636603c0a72d3e1ed5da1993210214645754e93655c0d806a",
+  "lib/slf4j-api-2.0.16.jar": "a12578dde1ba00bd9b816d388a0b879928d00bab3c83c240f7013bf4196c579a",
+  "lib/slf4j-simple-2.0.16.jar": "effc32018658bea09d1e08c7d1060ccad46c086960f583d07dd7ffe9c1172a47",
+  "client/libs/colorpicker.jar": "755a565c882f2dc61e529519a638b0d93a44395484c2a0a6a29038a836eb9105",
+  "client/libs/fontchooser.jar": "f5115252192433d1d0eb2139240f1227f9392059147e7aaae8ef34858d6fabdb",
+  "client/libs/jh.jar": "d33133c20604ed7639c2a584944981b5c3b169bee424372a95133f17e7c7aa65",
+  "client/libs/MRJAdapter.jar": "0d45b4e62f65da7f2f3ab6d3df3f5e75283b00549253c9a81cd3ff80b7f56742"
+}
